@@ -230,3 +230,4 @@ BMPlayer is available under the MIT license. See the LICENSE file for more info.
 
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FBrikerMan%2FBMPlayer.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FBrikerMan%2FBMPlayer?ref=badge_large)
+# BMPlayer-CustomVersion
